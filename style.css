@@ -1,0 +1,23 @@
+/* *
+{
+    color: rgb(225, 202, 217)
+
+} */
+h1
+{
+    text-align: center; color: violet;
+    
+}
+.woh
+{
+    margin: 90px;
+    color: blue;
+}
+#spec,h2
+{
+    color: black; background-color: pink;text-align: center;
+}
+#woo
+{
+background-color: pink; color: black;
+}
